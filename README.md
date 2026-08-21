@@ -14,6 +14,7 @@ Returns the current server time.
   "time": "2026-08-21T03:58:00Z"
 }
 ```
+
 ### `GET https://newc137.conspiracyrick.com/is-gdpr/`
 
 Returns the privacy/regulatory-region check.
@@ -26,6 +27,7 @@ Returns the privacy/regulatory-region check.
 	"CCPA": true
 }
 ```
+
 ### `GET https://rat.game.bps-pmnet.com/inappdeletion/get-account-data-storage-time`
 
 Returns the account-data deletion / retention.
