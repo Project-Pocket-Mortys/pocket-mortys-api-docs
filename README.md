@@ -15,7 +15,7 @@ Returns the current server time.
 }
 ```
 
-### `GET https://newc137.conspiracyrick.com/is-gdpr/`
+### `GET https://newc137.bps-pmnet.com/is-gdpr/`
 
 Returns the privacy/regulatory-region check.
 
